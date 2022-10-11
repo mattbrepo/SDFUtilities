@@ -1,5 +1,5 @@
 # SDFUtilities
-Utilities for [Chemical table files (aka SDF or MDL)](https://en.wikipedia.org/wiki/Chemical_table_file)
+Utilities for [Chemical table files (aka SDF or MDL)](https://en.wikipedia.org/wiki/Chemical_table_file).
 
 **Language: Python**
 
